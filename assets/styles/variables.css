@@ -1,0 +1,12 @@
+:root {
+    --accent: hsl(258, 80%, 58%);
+    --accent-dark: hsl(258, 80%, 45%);
+    --accent-light: hsl(258, 80%, 96%);
+    --background: hsl(240, 15%, 96%);
+    --card-bg: hsl(0, 0%, 100%);
+    --text-primary: hsl(240, 20%, 12%);
+    --text-secondary: hsl(240, 8%, 52%);
+    --border: hsl(240, 10%, 90%);
+    --danger: hsl(0, 75%, 58%);
+    --danger-dark: hsl(0, 75%, 45%);
+}
