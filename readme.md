@@ -2,12 +2,6 @@
     <h1>E·Shop</h1>
 </div>
 
-<p align="center">
-    <a href="https://github.com/zcriticz/e_shop/stargazers"><img src="https://img.shields.io/github/stars/zcriticz/e_shop?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/zcriticz/e_shop/issues"><img src="https://img.shields.io/github/issues/zcriticz/e_shop?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/zcriticz/e_shop/contributors"><img src="https://img.shields.io/github/contributors/zcriticz/e_shop?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
-
 **E·Shop** is a responsive e-commerce web application built with vanilla HTML, CSS, and JavaScript. Products are fetched from a public API and displayed with category filtering, discount pricing, and a fully functional shopping cart.
 
 This repository contains the complete solution, technologies used, and instructions for running the project.
