@@ -14,7 +14,7 @@ async function fetchProducts() {
       <div class="product-image">
         <img src="${product.images[0]}" alt="${product.title}">
       </div>
- 
+
       <div class="product-description-container">
         <p class="product-id">${product.category}</p>
         <h1 class="product-name">${product.title}</h1>
